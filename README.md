@@ -11,11 +11,11 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/TEJASDUTTA/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASDUTTA&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASDUTTA&&show_icons=true&theme=radical&line_height=27"/>
   </a>
 
 <a href="https://github.com/TEJASDUTTA/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=TEJASDUTTA&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=TEJASDUTTA&&show_icons=true&theme=radical&line_height=27"/>
   </a>
 <br />
 
