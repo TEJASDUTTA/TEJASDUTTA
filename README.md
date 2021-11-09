@@ -4,21 +4,22 @@ My name is Tejas Dutta and I'm a 3rd year student at Indian Institue of Informat
 
 I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank">
     Codechef
-  </a> and have solved more than 300 problems on Leetcode. Apart from coding, I am also learning image processing and deep learning.
+  </a> and have solved more than 300 problems on Leetcode. I am a full stack web-developer.
 
 ![](https://komarev.com/ghpvc/?username=TEJASDUTTA&color=blue)
 ## &#x1f4c8; GitHub Stats
-
+<div>
 <a href="https://github.com/TEJASDUTTA/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASDUTTA&&show_icons=true&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASDUTTA&&show_icons=true&theme=radical&line_height=27"/>
   </a>
 
 <a href="https://github.com/TEJASDUTTA/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=TEJASDUTTA&&show_icons=true&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEJASDUTTA&&show_icons=true&theme=radical&&line_height=40"/>
   </a>
+    </div>
 <br />
 
-### - Languages and Tools...
+### Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
