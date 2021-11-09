@@ -41,10 +41,16 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASDUTTA&repo=Smart-Dustbin-Management-System&theme=default&show_icons=true" />
 </a>
 
-
-<a href="https://github.com/TEJASDUTTA/Real-Time-Face-Mask-Detection
-">
+<a href="https://github.com/TEJASDUTTA/Real-Time-Face-Mask-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASDUTTA&repo=Real-Time-Face-Mask-Detection&theme=default&show_icons=true" />
+</a>
+
+<a href="https://github.com/TEJASDUTTA/Online-Photograph-Prnting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASDUTTA&repo=Online-Photograph-Prnting&theme=default&show_icons=true" />
+</a>
+
+<a href="https://github.com/TEJASDUTTA/Visitor-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASDUTTA&repo=Visitor-Management-System&theme=default&show_icons=true" />
 </a>
 
 <h2 align="center">Link to all profiles</h2>
