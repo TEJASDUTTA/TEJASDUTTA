@@ -15,7 +15,7 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank
 </a>
 
 <a href="https://github.com/TEJASDUTTA/TEJASDUTTA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviralgupta752&theme=default&show_icons=true&line_height=27" alt="Tejas's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEJASDUTTA&theme=default&show_icons=true&line_height=27" alt="Tejas's GitHub Stats" />
 </a> 
 
 <a href="https://github.com/TEJASDUTTA/Smart-Dustbin-Management-System">
