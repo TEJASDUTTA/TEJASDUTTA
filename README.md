@@ -10,11 +10,9 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank
 ![](https://komarev.com/ghpvc/?username=TEJASDUTTA&color=blue)
 ## &#x1f4c8; GitHub Stats
 
-<!-- <a href="https://github.com/TEJASDUTTA/TEJASDUTTA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASDUTTA&theme=default&show_icons=true&line_height=27"/>
-</a> -->
-
-<a href="https://github.com/TEJASDUTTA/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASDUTTA&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/TEJASDUTTA/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEJASDUTTA&&show_icons=true&theme=radical"/>
+  </a>
 
 <a href="https://github.com/TEJASDUTTA/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=TEJASDUTTA&&show_icons=true&theme=radical"/>
@@ -37,7 +35,7 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-#### Top Repositories
+### Top Repositories
 <br />
 <a href="https://github.com/TEJASDUTTA/Smart-Dustbin-Management-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TEJASDUTTA&repo=Smart-Dustbin-Management-System&theme=default&show_icons=true" />
