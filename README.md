@@ -1,10 +1,10 @@
 <h1> Hello, folks! 👋 </h1>
 My name is Tejas Dutta and I'm a 3rd year student at Indian Institue of Information Technology, Allahabad. You can find me on <a href="https://linkedin.com/in/tejas-dutta-917343200" target="blank">
-    LinkedIn</a>.
+    LinkedIn</a>. .'m a passionate learner who is always willing to learn and work across different technologies and domains.
 
 I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank">
     Codechef
-  </a> and have solved more than 300 problems on Leetcode. I am a full stack web-developer.
+  </a> I am a full stack web-developer.
 
 ![](https://komarev.com/ghpvc/?username=TEJASDUTTA&color=blue)
 ## &#x1f4c8; GitHub Stats
@@ -60,8 +60,8 @@ I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="Tejas-Codechef" height="25" width="25" />
   </a>
 
-  <a href="https://leetcode.com/tejasdutta01/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Tejas-Leetcode" height="25" width="25" />
+  <a href="https://github.com/TEJASDUTTA" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Tejas-Github" height="25" width="25" />
   </a>
 
   <a href="https://linkedin.com/in/tejas-dutta-917343200" target="blank">
