@@ -2,7 +2,7 @@
 My name is Tejas Dutta and I'm a 3rd year student at Indian Institue of Information Technology, Allahabad. You can find me on <a href="https://linkedin.com/in/tejas-dutta-917343200" target="blank">
     LinkedIn</a>. I'm a passionate learner who is always willing to learn and work across different technologies and domains.
 
-I am a 4⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank">
+I am a 5⭐ coder on <a href="https://www.codechef.com/users/tejd" target="blank">
     Codechef
   </a>. I am a full stack web-developer.
 
